@@ -1,0 +1,36 @@
+SCHEME: Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+
+OVERVIEW:
+Ayushman Bharat provides health insurance coverage of Rs. 5 lakh per family per year for secondary and tertiary hospitalization. It is the world's largest health assurance scheme targeting poor and vulnerable families.
+
+ELIGIBILITY:
+Based on SECC (Socio-Economic Caste Census) 2011 data:
+- Families living in kutcha houses
+- Families with no adult member between 16-59 years
+- Households with disabled members
+- SC/ST households
+- Landless agricultural labor households
+
+HOW TO CHECK ELIGIBILITY:
+- Visit mera.pmjay.gov.in or call 14555
+- Check at nearest Ayushman Mitra or government hospital
+- Visit Common Service Centre with Aadhaar card
+
+DOCUMENTS REQUIRED:
+- Aadhaar card
+- Ration card
+- Mobile number
+
+HOW TO USE:
+1. Visit any empanelled government or private hospital
+2. Show Aadhaar card at Ayushman Mitra desk
+3. Hospital will verify your eligibility online
+4. Treatment is FREE — no cash payment needed
+
+WHAT IS COVERED:
+- Surgery, medical and daycare treatments
+- Pre and post-hospitalization
+- Medicines, diagnostics, ICU services
+- Over 1,500 treatment packages
+
+HELPLINE: 14555 (toll-free, 24x7)

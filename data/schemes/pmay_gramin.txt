@@ -1,0 +1,31 @@
+SCHEME: Pradhan Mantri Awas Yojana - Gramin (PMAY-G)
+
+OVERVIEW:
+PMAY-G provides financial assistance to rural households to construct pucca (permanent) houses. The central government provides Rs. 1.20 lakh in plain areas and Rs. 1.30 lakh in hilly/difficult areas.
+
+ELIGIBILITY:
+- Families listed in SECC 2011 data as houseless or living in 0/1 room kutcha houses
+- Priority to SC/ST, minorities, widows, disabled persons
+- Must not have any pucca house anywhere in India
+- Family income should be below poverty line
+
+DOCUMENTS REQUIRED:
+- Aadhaar card (all family members)
+- Bank account (linked to Aadhaar)
+- MGNREGA job card (if applicable)
+- Land ownership documents
+
+FINANCIAL ASSISTANCE:
+- Rs. 1.20 lakh (plain areas) / Rs. 1.30 lakh (hilly/NE/difficult areas)
+- Additional Rs. 12,000 for toilet construction under Swachh Bharat Mission
+- Rs. 18,000 for 90 days of unskilled labour under MGNREGA
+- Total support can reach up to Rs. 1.50 lakh
+
+HOW TO APPLY:
+1. Check eligibility on AwaasSoft portal or at Gram Panchayat
+2. Village Panchayat maintains the list of eligible beneficiaries
+3. Contact Block Development Officer (BDO) or Gram Pradhan
+4. Application is processed through Gram Sabha
+
+HELPLINE: 1800-11-6446
+WEBSITE: pmayg.nic.in
