@@ -1,5 +1,10 @@
 # GramVoice — 1-Hour Build Guide
 
+> **Team project.** Concept and design: **Dinesh Raj P** ([@nextgencoder29](https://github.com/nextgencoder29))  
+> Implementation: **Trefan Kagoo** ([@trefann](https://github.com/trefann))  
+> Original repository with full commit history: https://github.com/trefann/gramvoice
+
+
 > Voice-first government scheme assistant for rural India
 
 ---
